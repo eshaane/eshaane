@@ -4,15 +4,14 @@
 
 ## I'm a 13 Year Old Software Developer ##
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🔭 Working On An All In One System Tool!
+- 🌱 I'm  Learning C#
+- 👯 I'm Bored Of School lol.
+- ⚡ Fun Fact: I am human
 
 ### My Socials ###
 [<img align="left" alt="Gam3rr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Gam3rr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -47,7 +46,7 @@ Last Updated: Saturday, October 30th, 2021, 4:02:31 PM
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Gam3rr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Gam3rrXD&show_icons=true&hide_border=true" />
+  <img align="left" alt="Gam3rr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Gam3rrXD&show_icons=true&hide_border=false&title_color=FF0000&icon_color=00FFFF&bg_color=333&text_color=1dcaff" />
 
 </details>
 
