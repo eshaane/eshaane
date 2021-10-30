@@ -32,7 +32,15 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+1. 📔 Created new repository [Gam3rrXD/Gam3rrXD](https://github.com/Gam3rrXD/Gam3rrXD)
+2. 📔 Created new repository [Gam3rrXD/SystemUtils](https://github.com/Gam3rrXD/SystemUtils)
+3. ✌️ Released [RainbowFlash v2 EXE Edition](https://github.com/Gam3rrLMAO/RainbowPopup/releases/tag/v2-win) in [Gam3rrLMAO/RainbowPopup](https://github.com/Gam3rrLMAO/RainbowPopup)
+4. ✌️ Released [HangMan For Windows](https://github.com/Gam3rrLMAO/HangMan/releases/tag/Version_1) in [Gam3rrLMAO/HangMan](https://github.com/Gam3rrLMAO/HangMan)
+5. 📔 Created new repository [Gam3rrLMAO/HangMan](https://github.com/Gam3rrLMAO/HangMan)
+<!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
+Last Updated: Saturday, October 30th, 2021, 4:02:31 PM
+<!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
 
