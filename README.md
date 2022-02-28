@@ -31,14 +31,14 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Gam3rrXD/Flare-Pinger](https://github.com/Gam3rrXD/Flare-Pinger)
-2. 📔 Created new repository [Gam3rrXD/Gam3rrXD](https://github.com/Gam3rrXD/Gam3rrXD)
+1. ✌️ Released [RickDetect v1 (CrossPlatform)](https://github.com/Gam3rrXD/RickDetect/releases/tag/v1) in [Gam3rrXD/RickDetect](https://github.com/Gam3rrXD/RickDetect)
+2. 📔 Created new repository [Gam3rrXD/RickDetect](https://github.com/Gam3rrXD/RickDetect)
 3. 📔 Created new repository [Gam3rrXD/SystemUtils](https://github.com/Gam3rrXD/SystemUtils)
 4. ✌️ Released [HangMan For Windows](https://github.com/Gam3rrLMAO/HangMan/releases/tag/Version_1) in [Gam3rrLMAO/HangMan](https://github.com/Gam3rrLMAO/HangMan)
 5. 📔 Created new repository [Gam3rrLMAO/HangMan](https://github.com/Gam3rrLMAO/HangMan)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 28th, 2022, 5:30:49 AM
+Last Updated: Monday, February 28th, 2022, 6:06:58 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
