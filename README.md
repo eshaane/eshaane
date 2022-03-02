@@ -31,14 +31,14 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [RickDetect v1 (CrossPlatform)](https://github.com/Gam3rrXD/RickDetect/releases/tag/v1) in [Gam3rrXD/RickDetect](https://github.com/Gam3rrXD/RickDetect)
-2. 📔 Created new repository [Gam3rrXD/RickDetect](https://github.com/Gam3rrXD/RickDetect)
-3. 📔 Created new repository [Gam3rrXD/SystemUtils](https://github.com/Gam3rrXD/SystemUtils)
+1. ❗️ Opened issue [#245](https://github.com/cupiditys/iReady-Overload/issues/245) in [cupiditys/iReady-Overload](https://github.com/cupiditys/iReady-Overload)
+2. ✌️ Released [RickDetect v1 (CrossPlatform)](https://github.com/Gam3rrXD/RickDetect/releases/tag/v1) in [Gam3rrXD/RickDetect](https://github.com/Gam3rrXD/RickDetect)
+3. 📔 Created new repository [Gam3rrXD/RickDetect](https://github.com/Gam3rrXD/RickDetect)
 4. ✌️ Released [HangMan For Windows](https://github.com/Gam3rrLMAO/HangMan/releases/tag/Version_1) in [Gam3rrLMAO/HangMan](https://github.com/Gam3rrLMAO/HangMan)
 5. 📔 Created new repository [Gam3rrLMAO/HangMan](https://github.com/Gam3rrLMAO/HangMan)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 2nd, 2022, 7:30:43 PM
+Last Updated: Wednesday, March 2nd, 2022, 8:01:57 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
