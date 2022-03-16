@@ -27,7 +27,6 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#245](https://github.com/cupiditys/iReady-Overload/issues/245) in [cupiditys/iReady-Overload](https://github.com/cupiditys/iReady-Overload)
 2. ✌️ Released [RickDetect v1 (CrossPlatform)](https://github.com/Gam3rrXD/RickDetect/releases/tag/v1) in [Gam3rrXD/RickDetect](https://github.com/Gam3rrXD/RickDetect)
 3. 📔 Created new repository [Gam3rrXD/RickDetect](https://github.com/Gam3rrXD/RickDetect)
 4. ✌️ Released [HangMan For Windows](https://github.com/Gam3rrLMAO/HangMan/releases/tag/Version_1) in [Gam3rrLMAO/HangMan](https://github.com/Gam3rrLMAO/HangMan)
