@@ -33,7 +33,7 @@
 4. ✌️ Released [RickDetect v1 (CrossPlatform)](https://github.com/Gam3rrXD/RickDetect/releases/tag/v1) in [Gam3rrXD/RickDetect](https://github.com/Gam3rrXD/RickDetect)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 30th, 2022, 7:30:55 PM
+Last Updated: Wednesday, March 30th, 2022, 8:04:08 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
