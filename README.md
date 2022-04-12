@@ -1,8 +1,8 @@
-### Hi there, I'm Gam3rr👋###
+### Hi there, I'm Gam3rr👋 ###
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Gam3rrXD?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FGam3rrXD&screen_name=Gam3rrXD)
 
-## Fluent Developer In 3 Launguages##
+## Fluent Developer In 3 Launguages ##
 
 - 🔭 Working On RickDetect
 - 🌱 Learning Java
