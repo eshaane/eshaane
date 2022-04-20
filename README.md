@@ -28,13 +28,13 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [Gam3rrXD/iReady-Overload](https://github.com/Gam3rrXD/iReady-Overload) from [cupiditys/iReady-Overload](https://github.com/cupiditys/iReady-Overload)
-2. ⭐ Starred [cupiditys/iReady-Overload](https://github.com/cupiditys/iReady-Overload)
-3. ❗️ Opened issue [#245](https://github.com/cupiditys/iReady-Overload/issues/245) in [cupiditys/iReady-Overload](https://github.com/cupiditys/iReady-Overload)
-4. ✌️ Released [RickDetect v1 (CrossPlatform)](https://github.com/Gam3rrXD/RickDetect/releases/tag/v1) in [Gam3rrXD/RickDetect](https://github.com/Gam3rrXD/RickDetect)
+1. ✌️ Released [RickDetect v2 ](https://github.com/Gam3rrXD/RickDetect/releases/tag/v2) in [Gam3rrXD/RickDetect](https://github.com/Gam3rrXD/RickDetect)
+2. 🎉 Merged PR [#1](https://github.com/Gam3rrXD/RickDetect/pull/1) in [Gam3rrXD/RickDetect](https://github.com/Gam3rrXD/RickDetect)
+3. 💪 Opened PR [#1](https://github.com/Gam3rrXD/RickDetect/pull/1) in [Gam3rrXD/RickDetect](https://github.com/Gam3rrXD/RickDetect)
+4. 🔱 Forked [Gam3rrXD/iReady-Overload](https://github.com/Gam3rrXD/iReady-Overload) from [cupiditys/iReady-Overload](https://github.com/cupiditys/iReady-Overload)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 20th, 2022, 4:06:31 PM
+Last Updated: Wednesday, April 20th, 2022, 4:59:42 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
