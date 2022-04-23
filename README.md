@@ -4,7 +4,7 @@
 
 ## Fluent Developer In 3 Launguages ##
 
-- 🔭 Working On RickDetect
+- 🔭 Working On <a href="https://github.com/Gam3rrXD/RickDetect">RickDetect</a>
 - 💻 Senior Developer and Head Of Cybersecurity For <a href="https://github.com/ProjectNebulus">Nebulus</a>
 - 🌱 Learning Java
 
