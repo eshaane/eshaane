@@ -2,6 +2,7 @@
 <p align="center">
     <img src="https://discord.c99.nl/widget/theme-3/849731649289453629.png"/>
 </p>
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/Gam3rrXD?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FGam3rrXD&screen_name=Gam3rrXD)
 
 ## Fluent Developer In 3 Launguages ##
