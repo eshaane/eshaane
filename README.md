@@ -29,13 +29,13 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Gam3rrXD/GitItBack](https://github.com/Gam3rrXD/GitItBack)
-2. ✌️ Released [RickDetect v2 ](https://github.com/Gam3rrXD/RickDetect/releases/tag/v2) in [Gam3rrXD/RickDetect](https://github.com/Gam3rrXD/RickDetect)
-3. 🎉 Merged PR [#1](https://github.com/Gam3rrXD/RickDetect/pull/1) in [Gam3rrXD/RickDetect](https://github.com/Gam3rrXD/RickDetect)
-4. 💪 Opened PR [#1](https://github.com/Gam3rrXD/RickDetect/pull/1) in [Gam3rrXD/RickDetect](https://github.com/Gam3rrXD/RickDetect)
+1. ✌️ Released [GitItBack v1](https://github.com/Gam3rrXD/GitItBack/releases/tag/v1) in [Gam3rrXD/GitItBack](https://github.com/Gam3rrXD/GitItBack)
+2. 📔 Created new repository [Gam3rrXD/GitItBack](https://github.com/Gam3rrXD/GitItBack)
+3. ✌️ Released [RickDetect v2 ](https://github.com/Gam3rrXD/RickDetect/releases/tag/v2) in [Gam3rrXD/RickDetect](https://github.com/Gam3rrXD/RickDetect)
+4. 🎉 Merged PR [#1](https://github.com/Gam3rrXD/RickDetect/pull/1) in [Gam3rrXD/RickDetect](https://github.com/Gam3rrXD/RickDetect)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, April 23rd, 2022, 12:26:48 AM
+Last Updated: Saturday, April 23rd, 2022, 2:12:41 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
