@@ -8,9 +8,9 @@
     <img src="https://discord.c99.nl/widget/theme-3/849731649289453629.png"/>
 </p>
 <p align="center">
-<a href="https://twitter.com/Gam3rrXD/followers">
+<a href="https://twitter.com/intent/follow?screen_name=Gam3rrXD">
          <img alt="Follow Me" src="https://img.shields.io/twitter/follow/Gam3rrXD?color=FF0000&logo=twitter&style=for-the-badge"
-         width="14" height="14">
+         width="20" height="28">
 </a>
 </p>
 
