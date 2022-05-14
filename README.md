@@ -2,15 +2,9 @@
 <p align="center">
     <img src="https://discord.c99.nl/widget/theme-3/849731649289453629.png"/>
 </p>
-<p align="center">
-<a href="### Hi there, I'm Gam3rr👋 ###
-<p align="center">
-    <img src="https://discord.c99.nl/widget/theme-3/849731649289453629.png"/>
-</p>
-<p align="center">
 <a href="https://twitter.com/intent/follow?screen_name=Gam3rrXD">
          <img alt="Follow Me" src="https://img.shields.io/twitter/follow/Gam3rrXD?color=FF0000&logo=twitter&style=for-the-badge"
-         width="200" height="280">
+         width="250" height="50">
 </a>
 </p>
 
