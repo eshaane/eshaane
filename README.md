@@ -3,7 +3,10 @@
     <img src="https://discord.c99.nl/widget/theme-3/849731649289453629.png"/>
 </p>
 <p align="center">
-[![Twitter Follow](https://img.shields.io/twitter/follow/Gam3rrXD?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FGam3rrXD&screen_name=Gam3rrXD)
+<a href="https://twitter.com/Gam3rrXD/followers">
+         <img alt="Follow Me" src="https://img.shields.io/twitter/follow/Gam3rrXD?color=FF0000&logo=twitter&style=for-the-badge"
+         width=150" height="70">
+</a>
 </p>
 
 ## Fluent Developer In 3 Launguages ##
