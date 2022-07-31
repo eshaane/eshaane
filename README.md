@@ -9,7 +9,7 @@
 </a>
 </p>
 
-## Fluent Developer In 3 Launguages ##
+## Fluent Developer In 5 Launguages ##
 
 - 🔭 Working On <a href="https://github.com/Gam3rrXD/RickDetect">RickDetect</a>
 - 💻 Senior Developer and Head Of InfoSec For <a href="https://github.com/ProjectNebulus">Nebulus</a>
