@@ -36,13 +36,13 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [PingIt v1](https://github.com/Gam3rrXD/PingIt/releases/tag/v1) in [Gam3rrXD/PingIt](https://github.com/Gam3rrXD/PingIt)
-2. 📔 Created new repository [Gam3rrXD/PingIt](https://github.com/Gam3rrXD/PingIt)
-3. ✌️ Released [GitItBack v1](https://github.com/Gam3rrXD/GitItBack/releases/tag/v1) in [Gam3rrXD/GitItBack](https://github.com/Gam3rrXD/GitItBack)
+1. ❗️ Opened issue [#95](https://github.com/amd64fox/SpotX/issues/95) in [amd64fox/SpotX](https://github.com/amd64fox/SpotX)
+2. ✌️ Released [PingIt v1](https://github.com/Gam3rrXD/PingIt/releases/tag/v1) in [Gam3rrXD/PingIt](https://github.com/Gam3rrXD/PingIt)
+3. 📔 Created new repository [Gam3rrXD/PingIt](https://github.com/Gam3rrXD/PingIt)
 4. 📔 Created new repository [Gam3rrXD/GitItBack](https://github.com/Gam3rrXD/GitItBack)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, July 31st, 2022, 3:08:34 AM
+Last Updated: Sunday, July 31st, 2022, 4:08:59 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
