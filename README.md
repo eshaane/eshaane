@@ -37,12 +37,12 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [Gam3rrXD/SpotifyPL](https://github.com/Gam3rrXD/SpotifyPL)
-2. ✌️ Released [SpotifyPL | V2.1](https://github.com/Gam3rrXD/SpotifyPL/releases/tag/v2.1) in [Gam3rrXD/SpotifyPL](https://github.com/Gam3rrXD/SpotifyPL)
-3. ✌️ Released [v2](https://github.com/Gam3rrXD/SpotifyPL/releases/tag/v2) in [Gam3rrXD/SpotifyPL](https://github.com/Gam3rrXD/SpotifyPL)
-4. 📔 Created new repository [Gam3rrXD/SpotifyPL](https://github.com/Gam3rrXD/SpotifyPL)
+2. ⭐ Starred [Gam3rrXD/SpotifyPL](https://github.com/Gam3rrXD/SpotifyPL)
+3. ✌️ Released [SpotifyPL | V2.1](https://github.com/Gam3rrXD/SpotifyPL/releases/tag/v2.1) in [Gam3rrXD/SpotifyPL](https://github.com/Gam3rrXD/SpotifyPL)
+4. ✌️ Released [v2](https://github.com/Gam3rrXD/SpotifyPL/releases/tag/v2) in [Gam3rrXD/SpotifyPL](https://github.com/Gam3rrXD/SpotifyPL)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 2nd, 2022, 6:06:41 PM
+Last Updated: Tuesday, August 2nd, 2022, 6:42:12 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
