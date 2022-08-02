@@ -36,13 +36,13 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Gam3rrXD/SpotifyPL](https://github.com/Gam3rrXD/SpotifyPL)
-2. ❗️ Opened issue [#95](https://github.com/amd64fox/SpotX/issues/95) in [amd64fox/SpotX](https://github.com/amd64fox/SpotX)
-3. ✌️ Released [PingIt v1](https://github.com/Gam3rrXD/PingIt/releases/tag/v1) in [Gam3rrXD/PingIt](https://github.com/Gam3rrXD/PingIt)
-4. 📔 Created new repository [Gam3rrXD/PingIt](https://github.com/Gam3rrXD/PingIt)
+1. ✌️ Released [SpotifyPL | V2.1](https://github.com/Gam3rrXD/SpotifyPL/releases/tag/v2.1) in [Gam3rrXD/SpotifyPL](https://github.com/Gam3rrXD/SpotifyPL)
+2. ✌️ Released [v2](https://github.com/Gam3rrXD/SpotifyPL/releases/tag/v2) in [Gam3rrXD/SpotifyPL](https://github.com/Gam3rrXD/SpotifyPL)
+3. 📔 Created new repository [Gam3rrXD/SpotifyPL](https://github.com/Gam3rrXD/SpotifyPL)
+4. ❗️ Opened issue [#95](https://github.com/amd64fox/SpotX/issues/95) in [amd64fox/SpotX](https://github.com/amd64fox/SpotX)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 2nd, 2022, 12:35:41 AM
+Last Updated: Tuesday, August 2nd, 2022, 3:24:31 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
