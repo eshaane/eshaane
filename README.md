@@ -42,7 +42,7 @@
 4. ✌️ Released [SpotifyPL | V2.1](https://github.com/Gam3rrXD/SpotifyPL/releases/tag/v2.1) in [Gam3rrXD/SpotifyPL](https://github.com/Gam3rrXD/SpotifyPL)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 3rd, 2022, 12:10:35 PM
+Last Updated: Wednesday, August 3rd, 2022, 1:08:19 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
