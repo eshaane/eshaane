@@ -36,13 +36,13 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [amd64fox/SpotX](https://github.com/amd64fox/SpotX)
-2. ⭐ Starred [Gam3rrXD/SpotifyPL](https://github.com/Gam3rrXD/SpotifyPL)
+1. 📔 Created new repository [Gam3rrXD/Pi-HoleLists](https://github.com/Gam3rrXD/Pi-HoleLists)
+2. ⭐ Starred [amd64fox/SpotX](https://github.com/amd64fox/SpotX)
 3. ⭐ Starred [Gam3rrXD/SpotifyPL](https://github.com/Gam3rrXD/SpotifyPL)
-4. ✌️ Released [SpotifyPL | V2.1](https://github.com/Gam3rrXD/SpotifyPL/releases/tag/v2.1) in [Gam3rrXD/SpotifyPL](https://github.com/Gam3rrXD/SpotifyPL)
+4. ⭐ Starred [Gam3rrXD/SpotifyPL](https://github.com/Gam3rrXD/SpotifyPL)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 7th, 2022, 2:55:12 AM
+Last Updated: Sunday, August 7th, 2022, 3:39:30 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
