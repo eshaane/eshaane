@@ -36,13 +36,13 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#825](https://github.com/spicetify/spicetify-themes/issues/825) in [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes)
-2. ⭐ Starred [RaphielHS/portfolio](https://github.com/RaphielHS/portfolio)
-3. ⭐ Starred [Sadyyn/ReBomb2](https://github.com/Sadyyn/ReBomb2)
-4. ✔️ Closed issue [#189](https://github.com/reisxd/revanced-builder/issues/189) in [reisxd/revanced-builder](https://github.com/reisxd/revanced-builder)
+1. ❗️ Opened issue [#121](https://github.com/amd64fox/SpotX/issues/121) in [amd64fox/SpotX](https://github.com/amd64fox/SpotX)
+2. ❗️ Opened issue [#825](https://github.com/spicetify/spicetify-themes/issues/825) in [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes)
+3. ⭐ Starred [RaphielHS/portfolio](https://github.com/RaphielHS/portfolio)
+4. ⭐ Starred [Sadyyn/ReBomb2](https://github.com/Sadyyn/ReBomb2)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 22nd, 2022, 5:37:26 PM
+Last Updated: Monday, August 22nd, 2022, 6:07:14 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
