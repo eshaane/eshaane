@@ -36,13 +36,13 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#121](https://github.com/amd64fox/SpotX/issues/121) in [amd64fox/SpotX](https://github.com/amd64fox/SpotX)
-2. ❗️ Opened issue [#825](https://github.com/spicetify/spicetify-themes/issues/825) in [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes)
-3. ⭐ Starred [RaphielHS/portfolio](https://github.com/RaphielHS/portfolio)
-4. ⭐ Starred [Sadyyn/ReBomb2](https://github.com/Sadyyn/ReBomb2)
+1. ❗️ Opened issue [#16](https://github.com/Tharki-God/BetterDiscordPlugins/issues/16) in [Tharki-God/BetterDiscordPlugins](https://github.com/Tharki-God/BetterDiscordPlugins)
+2. ❗️ Opened issue [#121](https://github.com/amd64fox/SpotX/issues/121) in [amd64fox/SpotX](https://github.com/amd64fox/SpotX)
+3. ❗️ Opened issue [#825](https://github.com/spicetify/spicetify-themes/issues/825) in [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes)
+4. ⭐ Starred [RaphielHS/portfolio](https://github.com/RaphielHS/portfolio)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 24th, 2022, 9:34:43 PM
+Last Updated: Wednesday, August 24th, 2022, 10:03:26 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
