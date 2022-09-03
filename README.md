@@ -42,7 +42,7 @@
 4. ❗️ Opened issue [#825](https://github.com/spicetify/spicetify-themes/issues/825) in [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, September 3rd, 2022, 3:02:37 PM
+Last Updated: Saturday, September 3rd, 2022, 3:38:34 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
