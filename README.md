@@ -36,13 +36,13 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#16](https://github.com/Tharki-God/BetterDiscordPlugins/issues/16) in [Tharki-God/BetterDiscordPlugins](https://github.com/Tharki-God/BetterDiscordPlugins)
-2. ❗️ Opened issue [#16](https://github.com/Tharki-God/BetterDiscordPlugins/issues/16) in [Tharki-God/BetterDiscordPlugins](https://github.com/Tharki-God/BetterDiscordPlugins)
-3. ❗️ Opened issue [#121](https://github.com/amd64fox/SpotX/issues/121) in [amd64fox/SpotX](https://github.com/amd64fox/SpotX)
-4. ❗️ Opened issue [#825](https://github.com/spicetify/spicetify-themes/issues/825) in [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes)
+1. ❗️ Opened issue [#8](https://github.com/ghostsb/ghost/issues/8) in [ghostsb/ghost](https://github.com/ghostsb/ghost)
+2. 🔱 Forked [Gam3rrXD/ghost](https://github.com/Gam3rrXD/ghost) from [ghostsb/ghost](https://github.com/ghostsb/ghost)
+3. ✔️ Closed issue [#16](https://github.com/Tharki-God/BetterDiscordPlugins/issues/16) in [Tharki-God/BetterDiscordPlugins](https://github.com/Tharki-God/BetterDiscordPlugins)
+4. ❗️ Opened issue [#16](https://github.com/Tharki-God/BetterDiscordPlugins/issues/16) in [Tharki-God/BetterDiscordPlugins](https://github.com/Tharki-God/BetterDiscordPlugins)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, September 18th, 2022, 9:37:16 PM
+Last Updated: Sunday, September 18th, 2022, 10:04:55 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
