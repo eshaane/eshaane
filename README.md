@@ -42,7 +42,7 @@
 4. ❗️ Opened issue [#16](https://github.com/Tharki-God/BetterDiscordPlugins/issues/16) in [Tharki-God/BetterDiscordPlugins](https://github.com/Tharki-God/BetterDiscordPlugins)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 21st, 2022, 11:06:16 PM
+Last Updated: Wednesday, September 21st, 2022, 11:41:29 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
