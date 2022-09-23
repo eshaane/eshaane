@@ -36,13 +36,13 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#8](https://github.com/ghostsb/ghost/issues/8) in [ghostsb/ghost](https://github.com/ghostsb/ghost)
-2. 🔱 Forked [Gam3rrXD/ghost](https://github.com/Gam3rrXD/ghost) from [ghostsb/ghost](https://github.com/ghostsb/ghost)
-3. ✔️ Closed issue [#16](https://github.com/Tharki-God/BetterDiscordPlugins/issues/16) in [Tharki-God/BetterDiscordPlugins](https://github.com/Tharki-God/BetterDiscordPlugins)
-4. ❗️ Opened issue [#16](https://github.com/Tharki-God/BetterDiscordPlugins/issues/16) in [Tharki-God/BetterDiscordPlugins](https://github.com/Tharki-God/BetterDiscordPlugins)
+1. ✔️ Closed issue [#8](https://github.com/ghostsb/ghost/issues/8) in [ghostsb/ghost](https://github.com/ghostsb/ghost)
+2. ❗️ Opened issue [#8](https://github.com/ghostsb/ghost/issues/8) in [ghostsb/ghost](https://github.com/ghostsb/ghost)
+3. 🔱 Forked [Gam3rrXD/ghost](https://github.com/Gam3rrXD/ghost) from [ghostsb/ghost](https://github.com/ghostsb/ghost)
+4. ✔️ Closed issue [#16](https://github.com/Tharki-God/BetterDiscordPlugins/issues/16) in [Tharki-God/BetterDiscordPlugins](https://github.com/Tharki-God/BetterDiscordPlugins)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 23rd, 2022, 10:43:42 PM
+Last Updated: Friday, September 23rd, 2022, 11:06:54 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
