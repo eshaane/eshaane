@@ -36,13 +36,13 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#8](https://github.com/ghostsb/ghost/issues/8) in [ghostsb/ghost](https://github.com/ghostsb/ghost)
-2. ❗️ Opened issue [#8](https://github.com/ghostsb/ghost/issues/8) in [ghostsb/ghost](https://github.com/ghostsb/ghost)
-3. 🔱 Forked [Gam3rrXD/ghost](https://github.com/Gam3rrXD/ghost) from [ghostsb/ghost](https://github.com/ghostsb/ghost)
-4. ✔️ Closed issue [#16](https://github.com/Tharki-God/BetterDiscordPlugins/issues/16) in [Tharki-God/BetterDiscordPlugins](https://github.com/Tharki-God/BetterDiscordPlugins)
+1. ❗️ Opened issue [#190](https://github.com/xManager-v2/xManager-Spotify/issues/190) in [xManager-v2/xManager-Spotify](https://github.com/xManager-v2/xManager-Spotify)
+2. ✔️ Closed issue [#8](https://github.com/ghostsb/ghost/issues/8) in [ghostsb/ghost](https://github.com/ghostsb/ghost)
+3. ❗️ Opened issue [#8](https://github.com/ghostsb/ghost/issues/8) in [ghostsb/ghost](https://github.com/ghostsb/ghost)
+4. 🔱 Forked [Gam3rrXD/ghost](https://github.com/Gam3rrXD/ghost) from [ghostsb/ghost](https://github.com/ghostsb/ghost)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 30th, 2022, 6:12:37 PM
+Last Updated: Friday, September 30th, 2022, 6:51:17 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
