@@ -42,7 +42,7 @@
 4. ❗️ Opened issue [#190](https://github.com/xManager-v2/xManager-Spotify/issues/190) in [xManager-v2/xManager-Spotify](https://github.com/xManager-v2/xManager-Spotify)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 20th, 2022, 10:09:46 AM
+Last Updated: Thursday, October 20th, 2022, 10:48:45 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
