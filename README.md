@@ -36,13 +36,13 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#852](https://github.com/spicetify/spicetify-themes/issues/852) in [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes)
-2. 🔱 Forked [Gam3rrXD/PBSDiscordDark](https://github.com/Gam3rrXD/PBSDiscordDark) from [Luckyvb/PBSDiscordDark](https://github.com/Luckyvb/PBSDiscordDark)
-3. ❗️ Opened issue [#147](https://github.com/Weilbyte/PVEDiscordDark/issues/147) in [Weilbyte/PVEDiscordDark](https://github.com/Weilbyte/PVEDiscordDark)
-4. ❗️ Opened issue [#190](https://github.com/xManager-v2/xManager-Spotify/issues/190) in [xManager-v2/xManager-Spotify](https://github.com/xManager-v2/xManager-Spotify)
+1. ❗️ Opened issue [#154](https://github.com/haugene/vpn-configs-contrib/issues/154) in [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib)
+2. ❗️ Opened issue [#852](https://github.com/spicetify/spicetify-themes/issues/852) in [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes)
+3. 🔱 Forked [Gam3rrXD/PBSDiscordDark](https://github.com/Gam3rrXD/PBSDiscordDark) from [Luckyvb/PBSDiscordDark](https://github.com/Luckyvb/PBSDiscordDark)
+4. ❗️ Opened issue [#147](https://github.com/Weilbyte/PVEDiscordDark/issues/147) in [Weilbyte/PVEDiscordDark](https://github.com/Weilbyte/PVEDiscordDark)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 23rd, 2022, 12:45:17 AM
+Last Updated: Sunday, October 23rd, 2022, 3:25:48 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
