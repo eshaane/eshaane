@@ -42,7 +42,7 @@
 4. 🔱 Forked [Gam3rrXD/AdGuard-Home-List](https://github.com/Gam3rrXD/AdGuard-Home-List) from [Ealenn/AdGuard-Home-List](https://github.com/Ealenn/AdGuard-Home-List)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 1st, 2022, 11:32:16 PM
+Last Updated: Friday, December 2nd, 2022, 12:28:53 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
