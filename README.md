@@ -36,13 +36,13 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#12](https://github.com/hackclub/winter/pull/12) in [hackclub/winter](https://github.com/hackclub/winter)
-2. 🔱 Forked [Gam3rrXD/winter](https://github.com/Gam3rrXD/winter) from [hackclub/winter](https://github.com/hackclub/winter)
-3. ⭐ Starred [emersion/hydroxide](https://github.com/emersion/hydroxide)
-4. ⭐ Starred [Solar-Tweaks/Solar-Tweaks](https://github.com/Solar-Tweaks/Solar-Tweaks)
+1. 💪 Opened PR [#649](https://github.com/hackclub/sprig/pull/649) in [hackclub/sprig](https://github.com/hackclub/sprig)
+2. 🔱 Forked [Gam3rrXD/sprig](https://github.com/Gam3rrXD/sprig) from [hackclub/sprig](https://github.com/hackclub/sprig)
+3. 💪 Opened PR [#12](https://github.com/hackclub/winter/pull/12) in [hackclub/winter](https://github.com/hackclub/winter)
+4. 🔱 Forked [Gam3rrXD/winter](https://github.com/Gam3rrXD/winter) from [hackclub/winter](https://github.com/hackclub/winter)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 20th, 2022, 2:32:06 AM
+Last Updated: Tuesday, December 20th, 2022, 3:04:05 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
