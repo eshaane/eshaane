@@ -36,13 +36,13 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#658](https://github.com/hackclub/sprig/pull/658) in [hackclub/sprig](https://github.com/hackclub/sprig)
-2. 💪 Opened PR [#649](https://github.com/hackclub/sprig/pull/649) in [hackclub/sprig](https://github.com/hackclub/sprig)
-3. 🔱 Forked [Gam3rrXD/sprig](https://github.com/Gam3rrXD/sprig) from [hackclub/sprig](https://github.com/hackclub/sprig)
-4. 💪 Opened PR [#12](https://github.com/hackclub/winter/pull/12) in [hackclub/winter](https://github.com/hackclub/winter)
+1. 💪 Opened PR [#695](https://github.com/hackclub/sprig/pull/695) in [hackclub/sprig](https://github.com/hackclub/sprig)
+2. 💪 Opened PR [#658](https://github.com/hackclub/sprig/pull/658) in [hackclub/sprig](https://github.com/hackclub/sprig)
+3. 💪 Opened PR [#649](https://github.com/hackclub/sprig/pull/649) in [hackclub/sprig](https://github.com/hackclub/sprig)
+4. 🔱 Forked [Gam3rrXD/sprig](https://github.com/Gam3rrXD/sprig) from [hackclub/sprig](https://github.com/hackclub/sprig)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 1st, 2023, 7:02:01 AM
+Last Updated: Sunday, January 1st, 2023, 7:30:58 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
