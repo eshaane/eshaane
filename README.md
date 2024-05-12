@@ -6,8 +6,7 @@
 # About Me:
 <p align="left"> <a href="https://github.com/Gam3rrXD"><img src="https://github-profile-trophy.vercel.app/?username=gam3rrxd&theme=discord" alt="gam3rrxd" /></a> </p>
 
-- 🔭 I’m currently working on **Team 2976 | The Spartabots**
-
+- 🤖 I’m currently working in **Team 2976 | The Spartabots**
 - 🌱 I’m currently learning **Tailwind, After Effects**
 
 # Languages and Tools:
