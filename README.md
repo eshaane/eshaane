@@ -12,7 +12,7 @@
 
 # Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=ae,apple,arduino,arch,atom,autocad,azure,bash,blender,cs,cpp,cloudflare,css,debian,discord,bots,discordjs,docker,dotnet,eclipse,electron,firebase,flask,gcp,git,github,gitlab,gmail,go,gradle,grafana,heroku,html,idea,ai,instagram,java,js,kali,kubernetes,lua,linkedin,mongodb,mysql,netlify,nextjs,nginx,nodejs,npm,ps,pr,powershell,pycharm,py,raspberrypi,react,redhat,regex,replit,stackoverflow,svg,tailwind,ts,ubuntu,twitter,vscode,visualstudio,webpack,wordpress&theme=dark)](https://github.com/Gam3rrXD)
+[![My Skills](https://skillicons.dev/icons?i=ae,apple,arduino,arch,atom,autocad,azure,bash,blender,cs,cpp,cloudflare,css,debian,,discordjs,docker,dotnet,eclipse,electron,firebase,flask,gcp,git,github,gitlab,go,gradle,grafana,heroku,html,idea,ai,java,js,kali,kubernetes,mongodb,mysql,netlify,nextjs,nginx,nodejs,npm,ps,pr,powershell,pycharm,py,raspberrypi,react,redhat,regex,replit,svg,tailwind,ts,ubuntu,vscode,visualstudio,webpack&theme=dark)](https://github.com/Gam3rrXD)
 
 # Statistics:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=gam3rrxd&show_icons=true&locale=en&theme=dark" alt="gam3rrxd" /></p>
